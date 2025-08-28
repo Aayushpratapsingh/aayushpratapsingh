@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-BCA student passionate about building responsive, user-friendly web interfaces. I’m continuously learning HTML, CSS, JavaScript, and modern frameworks, while exploring backend development with Java and Spring Boot. I love turning ideas into real projects and improving my coding skills every day.
+Passionate about building **responsive, user-friendly web interfaces**.  
+Currently learning **HTML, CSS, JavaScript**, and modern frameworks, while also exploring **backend development with Java & Spring Boot**.  
+I love turning ideas into real projects and improving my coding skills every day.  
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [MyPortfolio](http://aayushpratapsingh.com.np)
 * ✉️  You can contact me at [aayushpratapsingh098@gmail.com](mailto:aayushpratapsingh098@gmail.com)
-* 🚀  I'm currently working on [COMING SOON – Check it out](http://)
+* 🚀  I'm currently working on [COMING SOON – Stay tuned!](http://)
 * 🧠  I'm currently learning Java, Spring Boot & JavaScript
 * 👥  I'm looking to collaborate on Web development projects, full-stack applications, and open-source contributions
 * 💬  Ask me about I’m secretly Spider-Man… but don’t tell anyone 🕷️🕸️
