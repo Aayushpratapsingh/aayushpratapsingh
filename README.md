@@ -9,7 +9,7 @@ BCA student passionate about building responsive, user-friendly web interfaces. 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [MyPortfolio](http://aayushpratapsingh.com.np)
 * ✉️  You can contact me at [aayushpratapsingh098@gmail.com](mailto:aayushpratapsingh098@gmail.com)
-* 🚀  I'm currently working on [COMEING SOON – Check it out](http://)
+* 🚀  I'm currently working on [COMING SOON – Check it out](http://)
 * 🧠  I'm currently learning Java, Spring Boot & JavaScript
 * 👥  I'm looking to collaborate on Web development projects, full-stack applications, and open-source contributions
 * 💬  Ask me about I’m secretly Spider-Man… but don’t tell anyone 🕷️🕸️
