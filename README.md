@@ -39,17 +39,19 @@ I love turning ideas into real projects and improving my coding skills every day
 ---
 ### 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushpratapsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <!-- Circle / Pie chart of languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=pie&theme=tokyonight&hide_border=true" alt="Pie Chart Languages" height="250px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight" alt="Repos per language" height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight" alt="Most commit language" height="180px"/>
+  <!-- Most used languages (bar style compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aayushpratapsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <!-- Repo based and commit based languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight" alt="Top Languages by Repo" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight" alt="Top Languages by Commit" height="180px"/>
 </p>
 
 ---
