@@ -38,12 +38,19 @@ I love turning ideas into real projects and improving my coding skills every day
 
 ---
 ### 📊 GitHub Stats & Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushpratapsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+</p>
 
-![Aayush's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight)
-![Aayush's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight" alt="Repos per language" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight" alt="Most commit language" height="180px"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aayushpratapsingh&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aayushpratapsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+</p>
 
 ---
 
