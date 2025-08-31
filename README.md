@@ -43,12 +43,6 @@ I love turning ideas into real projects and improving my coding skills every day
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=pie&theme=tokyonight&hide_border=true" alt="Pie Chart Languages" height="250px"/>
 </p>
 
-<p align="center">
-  <!-- Most used languages (bar style compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180px"/>
-</p>
-
-
 ---
 
 ### 🌐 Socials
