@@ -48,11 +48,6 @@ I love turning ideas into real projects and improving my coding skills every day
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180px"/>
 </p>
 
-<p align="center">
-  <!-- Repo based and commit based languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight" alt="Top Languages by Repo" height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight" alt="Top Languages by Commit" height="180px"/>
-</p>
 
 ---
 
