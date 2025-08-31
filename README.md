@@ -38,10 +38,6 @@ I love turning ideas into real projects and improving my coding skills every day
 
 ---
 
----
-
----
-
 ## 📊 GitHub Stats & Languages
 
 <p align="center">
