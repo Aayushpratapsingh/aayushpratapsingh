@@ -81,15 +81,6 @@ I love turning ideas into real projects and improving my coding skills every day
     </picture>
   </a>
 
-  <!-- Email -->
-  <a href="mailto:aayushpratapsingh098@gmail.com" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="32" height="32" alt="Email" title="Email" />
-    </picture>
-  </a>
-
    <!-- Instagram -->
   <a href="https://www.instagram.com/notaayush_s/" target="_blank" rel="noreferrer">
     <picture>
