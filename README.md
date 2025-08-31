@@ -37,6 +37,15 @@ I love turning ideas into real projects and improving my coding skills every day
 </p>
 
 ---
+### 📊 GitHub Stats & Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=compact&theme=tokyonight)
+
+![Aayush's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight)
+![Aayush's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aayushpratapsingh&theme=tokyonight&hide_border=true)
+
+---
 
 ### 🌐 Socials
 <p align="left">
