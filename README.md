@@ -52,12 +52,30 @@ I love turning ideas into real projects and improving my coding skills every day
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight&title_color=ff79c6&text_color=f8f8f2" 
-       alt="Top Languages by Repo" 
-       height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight&title_color=ff79c6&text_color=f8f8f2" 
-       alt="Top Languages by Commit" 
-       height="180px"/>
+  <img src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{
+      labels:['Java','HTML','JavaScript','Python','C++'],
+      datasets:[{
+        data:[30,25,20,15,10],
+        backgroundColor:['#f89820','#e34c26','#f0db4f','#3572A5','#00599C']  // custom colors
+      }]
+    },
+    options:{
+      plugins:{
+        legend:{position:'bottom'},
+        title:{
+          display:true,
+          text:'Top Languages',
+          font:{size:18,weight:'bold'},
+          color:'#ffffff'
+        }
+      }
+    }
+  }&backgroundColor=222222" 
+       alt="Custom Language Pie Chart" 
+       height="260px"
+       style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4);"/>
 </p>
 
 ---
