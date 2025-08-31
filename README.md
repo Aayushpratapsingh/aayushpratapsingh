@@ -5,7 +5,7 @@ Aspiring Full-Stack Developer
 ------------------
 
 Passionate about building **responsive, user-friendly web interfaces**.  
-Currently learning **HTML, CSS, JavaScript**, and modern frameworks, while also exploring **backend development with Java & Spring Boot**.  
+Currently learning **JavaScript**, and modern frameworks, while also exploring **backend development with Java & Spring Boot**.  
 I love turning ideas into real projects and improving my coding skills every day.  
 
 * 🌍  I'm based in Nepal
