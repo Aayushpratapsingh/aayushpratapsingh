@@ -41,25 +41,33 @@ I love turning ideas into real projects and improving my coding skills every day
 ---
 
 ## 📊 GitHub Stats & Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=pie&theme=dracula&hide_border=true" 
-       alt="Pie Chart Languages" 
+  <img src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{
+      labels:['Java','Python','JavaScript','C++','HTML'],
+      datasets:[{
+        data:[40,25,15,10,10],
+        backgroundColor:['#FF6B6B','#6BCB77','#4D96FF','#FFD93D','#9D4EDD']
+      }]
+    },
+    options:{
+      plugins:{
+        legend:{position:'bottom'},
+        title:{
+          display:true,
+          text:'Top Languages',
+          font:{size:18,weight:'bold'},
+          color:'#ffffff'
+        }
+      }
+    }
+  }&backgroundColor=222222" 
+       alt="Custom Language Pie Chart" 
        height="260px"
        style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4);"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=dracula" 
-       alt="Top Languages by Repo" 
-       height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=dracula" 
-       alt="Top Languages by Commit" 
-       height="180px"/>
-</p>
-
 ---
-
 
 
 ### 🌐 Socials
