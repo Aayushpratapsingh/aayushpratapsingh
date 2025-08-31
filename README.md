@@ -37,13 +37,27 @@ I love turning ideas into real projects and improving my coding skills every day
 </p>
 
 ---
-### 📊 GitHub Stats & Languages
+
+## 📊 GitHub Stats & Languages
+
 <p align="center">
-  <!-- Circle / Pie chart of languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=pie&theme=tokyonight&hide_border=true" alt="Pie Chart Languages" height="250px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=pie&theme=tokyonight&hide_border=true" 
+       alt="Pie Chart Languages" 
+       height="260px"
+       style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4);"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight" 
+       alt="Top Languages by Repo" 
+       height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight" 
+       alt="Top Languages by Commit" 
+       height="180px"/>
 </p>
 
 ---
+
 
 ### 🌐 Socials
 <p align="left">
