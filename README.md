@@ -9,7 +9,7 @@ Currently learning **JavaScript**, and modern frameworks, while also exploring *
 I love turning ideas into real projects and improving my coding skills every day.  
 
 * 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [Comming Soon!](http://aayushpratapsingh.com.np)
+* 🖥️  See my portfolio at [Coming-Soon!](http://aayushpratapsingh.com.np)
 * ✉️  You can contact me at [aayushpratapsingh098@gmail.com](mailto:aayushpratapsingh098@gmail.com)
 * 🚀  I'm currently working on [COMING SOON – Stay tuned!](http://)
 * 🧠  I'm currently learning Java, Spring Boot & JavaScript
