@@ -28,14 +28,6 @@ I love turning ideas into real projects and improving my coding skills every day
        style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4);"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpratapsingh&theme=tokyonight&title_color=ff79c6&text_color=f8f8f2" 
-       alt="Top Languages by Repo" 
-       height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpratapsingh&theme=tokyonight&title_color=ff79c6&text_color=f8f8f2" 
-       alt="Top Languages by Commit" 
-       height="180px"/>
-</p>
 
 ---
 
