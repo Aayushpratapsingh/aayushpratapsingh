@@ -14,7 +14,6 @@ I love turning ideas into real projects and improving my coding skills every day
 * 🚀  I'm currently working on [COMING SOON – Stay tuned!](http://)
 * 🧠  I'm currently learning Java, Spring Boot & JavaScript
 * 👥  I'm looking to collaborate on Web development projects, full-stack applications, and open-source contributions
-* 💬  Fun fact: I’m secretly Spider-Man… but don’t tell anyone 🕷️🕸️
 
 # ⚡ Skills
 <p align="left">
