@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full-Stack Developer
 ------------------
 
-Passionate about building **responsive, user-friendly web interfaces**.  
-Currently learning **JavaScript**, and modern frameworks, while also exploring **backend development with Java & Spring Boot**.  
-I love turning ideas into real projects and improving my coding skills every day.  
+Passionate about building **responsive, user-friendly web interfaces**.    
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [Coming-Soon!](http://aayushpratapsingh.com.np)
