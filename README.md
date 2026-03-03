@@ -25,19 +25,15 @@ Passionate about building **responsive, user-friendly web interfaces**.
          alt="VS Code" width="48" height="48" />
   </a>
 
-
----
-
-
   <!-- Spring Tool Suite 4 -->
   <a href="https://spring.io/tools" target="_blank" rel="noreferrer">
-    <img src="https://spring.io/images/projects/sts4/logo-sts4.svg" 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
          alt="Spring Tool Suite 4" width="48" height="48" />
   </a>
 
   <!-- Eclipse IDE -->
   <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Eclipse_logo_2014.svg" 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" 
          alt="Eclipse IDE" width="48" height="48" />
   </a>
 </div>
