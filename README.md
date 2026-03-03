@@ -20,10 +20,10 @@ Passionate about building **responsive, user-friendly web interfaces**.
 <div align="center">
   <h3 style="font-size: 24px;">⚙️ Backend</h3>
 
-  <!-- Spring Boot / Java -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" 
-         alt="Spring Boot" width="48" height="48" />
+   <!-- Java -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         alt="Java" width="48" height="48" />
   </a>
 
   <!-- PHP -->
