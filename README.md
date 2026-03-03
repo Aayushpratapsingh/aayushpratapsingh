@@ -55,15 +55,6 @@ Passionate about building **responsive, user-friendly web interfaces**.
   </a>
 </div>
 
-## 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpratapsingh&layout=pie&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=f8f8f2" 
-       alt="Pie Chart Languages" 
-       height="260px"
-       style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4);"/>
-</p>
-
 
 ---
 
