@@ -25,6 +25,10 @@ Passionate about building **responsive, user-friendly web interfaces**.
          alt="VS Code" width="48" height="48" />
   </a>
 
+
+---
+
+
   <!-- Spring Tool Suite 4 -->
   <a href="https://spring.io/tools" target="_blank" rel="noreferrer">
     <img src="https://spring.io/images/projects/sts4/logo-sts4.svg" 
