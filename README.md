@@ -7,7 +7,7 @@ Aspiring Full-Stack Developer
 Passionate about building **responsive, user-friendly web interfaces**.    
 
 * 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [Coming-Soon!](http://aayushpratapsingh.com.np)
+* 🖥️  See my portfolio at [Coming-Soon!]([http://aayushpratapsingh.com.np](https://portfolio-three-pearl-dbcujp045c.vercel.app/)
 * ✉️  You can contact me at [aayushpratapsingh098@gmail.com](mailto:aayushpratapsingh098@gmail.com)
 * 🚀  I'm currently working on [COMING SOON – Stay tuned!](http://)
 * 🧠  I'm currently learning Java, Spring Boot & JavaScript
