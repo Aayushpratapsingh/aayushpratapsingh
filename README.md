@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aayush Pratap Singh
 ============================================================================================================================================
 
-Aspiring Full-Stack Developer
+Aspiring UX/UI : Front-End Developer
 ------------------
 
 Passionate about building **responsive, user-friendly web interfaces**.    
@@ -9,8 +9,8 @@ Passionate about building **responsive, user-friendly web interfaces**.
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [CLICK HERE](https://portfolio-three-pearl-dbcujp045c.vercel.app/)
 * ✉️  You can contact me at [aayushpratapsingh098@gmail.com](mailto:aayushpratapsingh098@gmail.com)
-* 🚀  I'm currently working on [COMING SOON – Stay tuned!](http://)
-* 🧠  I'm currently learning Java, Spring Boot & JavaScript
+* 🧠  I'm currently learning Java, Spring Boot & JavaScript and
+* ⚡  I'm also into UX/UI Design 
 * 👥  I'm looking to collaborate on Web development projects, full-stack applications, and open-source contributions
 ---
 
