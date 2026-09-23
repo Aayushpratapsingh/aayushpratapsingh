@@ -9,8 +9,8 @@ Passionate about building **responsive, user-friendly web interfaces**.
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [CLICK HERE](https://portfolio-three-pearl-dbcujp045c.vercel.app/)
 * ✉️  You can contact me at [aayushpratapsingh098@gmail.com](mailto:aayushpratapsingh098@gmail.com)
-* 🧠  I'm currently learning Java, Spring Boot & JavaScript and
-* ⚡  I'm also into UX/UI Design 
+* 🧠  I'm currently learning TypeScript and Java
+* ⚡  I'm learning UX/UI Design 
 * 👥  I'm looking to collaborate on Web development projects, full-stack applications, and open-source contributions
 ---
 
@@ -27,9 +27,9 @@ Passionate about building **responsive, user-friendly web interfaces**.
   </a>
 
   <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+ <!-- <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" 
-         alt="PHP" width="48" height="48" />
+         alt="PHP" width="48" height="48" /> -->
   </a>
 </div> <!-- Database --> <div align="center"> <h3 style="font-size: 24px;">🗄️ Database</h3> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="48" height="48" /> </a> </div> 
 <!-- Tools & IDE -->
